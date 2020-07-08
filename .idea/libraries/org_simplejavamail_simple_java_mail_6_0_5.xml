@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="org.simplejavamail:simple-java-mail:6.0.5" type="repository">
+    <properties maven-id="org.simplejavamail:simple-java-mail:6.0.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/simple-java-mail-6.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-module-6.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.mail-1.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/emailaddress-rfc2822-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetbrains-runtime-annotations-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
